@@ -12,4 +12,4 @@
 
 📫 Entre em contato pelo 💬Discord (kaueOlder).
 
-⚡ Curiosidade: Uso o Discord desde 2017, e sou um entusiasta da construção de comunidades online e colaboração em tempo real.
+⚡ Curiosidade: Uso o Discord desde 2017 e sou um entusiasta da construção de comunidades online e colaboração em tempo real.
