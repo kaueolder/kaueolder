@@ -1,5 +1,4 @@
 # 👋 Sou Kauê Pedroso, cientista da computação e engenheiro de software.
-
 🛠️ Paixão por Ciência da Computação, com experiência em algoritmos e estruturas de dados.
 
 🏗️ Construtor de projetos abrangentes, desde linguagens de programação até bancos de dados, autenticação e desenvolvimento de frontend e backend.
